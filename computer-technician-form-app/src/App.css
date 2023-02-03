@@ -1,23 +1,8 @@
-.form-container {
-  width: 850px;
-  height: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  border: 2px solid black;
-}
+
 h1{
   color: black;
   font: 1em sans-serif;
   margin-left: 60px;
-}
-
-.header-container{
-  display: flex;
-  padding: 0px;
-}
-.company-information{
-
-
 }
 
 .company-information,
